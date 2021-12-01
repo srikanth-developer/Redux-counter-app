@@ -1,0 +1,9 @@
+Refer these websites for more information
+
+https://redux.js.org/introduction/examples
+https://www.valentinog.com/blog/redux/
+https://www.edureka.co/blog/react-redux-tutorial/
+https://www.digitalocean.com/community/tutorials/how-to-manage-state-in-react-with-redux
+https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app
+https://medium.com/swlh/reactjs-with-redux-293fa171e3f9
+https://scriptverse.academy/tutorials/reactjs-redux-example.html
